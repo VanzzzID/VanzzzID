@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanzzzid&label=Profile%20views&color=0e75b6&style=flat" alt="vanzzzid" /> </p>
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
 
 
 - 🔭 I’m currently working on **My Own Project**
